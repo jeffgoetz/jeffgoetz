@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jeff 👋
 
-<!--
-**jeffgoetz/jeffgoetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MS Biostatistics graduate interested in public health analytics, epidemiology, surveillance, and applied statistical modeling.
 
-Here are some ideas to get you started:
+I have experience working with healthcare and public health data through graduate coursework, public health internship work, and prior actuarial analysis of Medicare populations. I'm especially interested in using data to support evidence-based decision-making in public health and applied research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** R, SAS, SQL, Python
+- **Methods:** logistic regression, survival analysis, categorical data analysis, study design
+- **Tools:** RStudio, SAS, SQL Server, Excel, Jupyter Notebook, GitHub
+- **Interests:** public health analytics, epidemiology, healthcare research, surveillance, outbreak response
+
+## Featured Projects
+
+- Regulatory inspection violation analysis
+- Survival analysis examples
+- Categorical data analysis examples
+- Python data cleaning and modeling projects
