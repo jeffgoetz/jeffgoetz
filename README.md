@@ -13,7 +13,9 @@ I have experience working with healthcare and public health data through graduat
 
 ## Featured Projects
 
-- Regulatory inspection violation analysis
-- Survival analysis examples
-- Categorical data analysis examples
-- Python data cleaning and modeling projects
+- [Time-Dependent Cox Model for Midodrine Use and ED Transfer](https://github.com/jeffgoetz/survival-analysis-midodrine-ed-transfer)  
+  Survival analysis project using a time-dependent Cox proportional hazards model to evaluate midodrine use and time to inpatient transfer from the Emergency Department.
+
+- Regulatory inspection violation analysis *(in progress)*
+
+- Python data cleaning and modeling projects *(coming soon)*
